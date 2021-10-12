@@ -1,11 +1,11 @@
-# Dependency-aware Information Metrics for Evaluation of Latent Representations in Deep Generative Systems
+# Evaluation of Latent Space Disentanglement in the Presence of Interdependent Attributes
 Supplementary materials for ISMIR 2021 LBD submission:
 
-> K. N. Watcharasupat and A. Lerch, "Dependency-aware Information Metrics for Evaluation of Latent Representations in Deep Generative Systems," submitted to the Late-Breaking Demo Session of the 22nd International Society for Music Information Retrieval Conference (ISMIR), Online, 2021.
+> K. N. Watcharasupat and A. Lerch, "Evaluation of Latent Space Disentanglement in the Presence of Interdependent Attributes," submitted to the Late-Breaking Demo Session of the 22nd International Society for Music Information Retrieval Conference (ISMIR), Online, 2021.
 
-## Derivation
+<!-- ## Derivation
 
-See [here](proof.pdf).
+See [here](proof.pdf). -->
 
 ## Data
 - NSynth: https://magenta.tensorflow.org/datasets/nsynth
