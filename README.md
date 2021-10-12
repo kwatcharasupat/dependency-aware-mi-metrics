@@ -24,9 +24,6 @@ Supplementary materials for ISMIR 2021 LBD submission:
 ## Results
 <img src=results.png>
 
-## Derivations
-(coming soon)
-
 ## How to Cite
 ```
 @article{watcharasupat2021metrics,
