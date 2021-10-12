@@ -8,7 +8,24 @@ Supplementary materials for ISMIR 2021 LBD submission:
 - AudioCommons Timbral Models: https://github.com/AudioCommons/timbral_models
 
 ## Model
-TBA
+<img width=50% src=model.png/>
+
+## Training and hyperparameters
+- `Adam(lr=1e-4, weight_decay=1e-6)`
+- `ReduceLROnPlateau(factor=0.75, patience=3)`
+- `stft(n_fft=1024,
+	hop_length=128,
+	window=hann_window
+	center=True,
+	pad_mode="constant",
+	normalized=True)
+`
+
+## Results
+<img src=results.png>
+
+## Derivations
+(coming soon)
 
 ## How to Cite
 ```
