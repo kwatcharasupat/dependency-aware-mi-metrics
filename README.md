@@ -1,3 +1,7 @@
+**Metrics from this work is now part of [Latte](https://github.com/karnwatcharasupat/latte)! Please take a look there for a tested and cross-framework implementation.**
+
+----
+
 # Evaluation of Latent Space Disentanglement in the Presence of Interdependent Attributes
 Supplementary materials for ISMIR 2021 LBD submission:
 
